@@ -1,0 +1,83 @@
+# ────────────────────────────────────────────────────────────
+# Custom Theme for btop
+# Made with Omarchist
+# ────────────────────────────────────────────────────────────
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0F0F0F"
+
+# Main text color
+theme[main_fg]="#4A4E3D"
+
+# Title color for boxes
+theme[title]="#3A403B"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#FF6347"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#3A403B"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#FF6347"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#4A4E3D"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#FF6347"
+
+# Cpu box outline color
+theme[cpu_box]="#2E2D24"
+
+# Memory/disks box outline color
+theme[mem_box]="#2E2D24"
+
+# Net up/down box outline color
+theme[net_box]="#2E2D24"
+
+# Processes box outline color
+theme[proc_box]="#2E2D24"
+
+# Box divider line and small boxes line color
+theme[div_line]="#2E2D24"
+
+# Temperature graph colors
+theme[temp_start]="#FFAA00"
+theme[temp_mid]="#FF4500"
+theme[temp_end]="#BF0000"
+
+# CPU graph colors
+theme[cpu_start]="#FFAA00"
+theme[cpu_mid]="#FF4500"
+theme[cpu_end]="#BF0000"
+
+# Mem/Disk free meter
+theme[free_start]="#FFAA00"
+theme[free_mid]="#FF4500"
+theme[free_end]="#BF0000"
+
+# Mem/Disk cached meter
+theme[cached_start]="#FFAA00"
+theme[cached_mid]="#FF4500"
+theme[cached_end]="#BF0000"
+
+# Mem/Disk available meter
+theme[available_start]="#FFAA00"
+theme[available_mid]="#FF4500"
+theme[available_end]="#BF0000"
+
+# Mem/Disk used meter
+theme[used_start]="#FFAA00"
+theme[used_mid]="#FF4500"
+theme[used_end]="#BF0000"
+
+# Download graph colors
+theme[download_start]="#FFAA00"
+theme[download_mid]="#FF4500"
+theme[download_end]="#BF0000"
+
+# Upload graph colors
+theme[upload_start]="#FFAA00"
+theme[upload_mid]="#FF4500"
+theme[upload_end]="#BF0000"

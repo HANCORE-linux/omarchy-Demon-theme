@@ -1,0 +1,38 @@
+# ────────────────────────────────────────────────────────────
+# Omarchy Custom Theme for Alacritty
+# Generated with Omarchist
+# ────────────────────────────────────────────────────────────
+
+[colors]
+[colors.primary]
+background = "#0F0F0F"
+foreground = "#E0D4C2"
+dim_foreground = "#3A403B"
+
+[colors.cursor]
+text = "#0F0F0F"
+cursor = "#FF4500"
+
+[colors.selection]
+text = "CellForeground"
+background = "#3A403B"
+
+[colors.normal]
+black = "#0F0F0F"
+red = "#8B0000"
+green = "#3A403B"
+yellow = "#FF4500"
+blue = "#4A4E3D"
+magenta = "#7B726A"
+cyan = "#7A7D80"
+white = "#bebebe"
+
+[colors.bright]
+black = "#292828"
+red = "#8B0000"
+green = "#305432"
+yellow = "#FF4500"
+blue = "#496529"
+magenta = "#7B726A"
+cyan = "#A9A9A9"
+white = "#eaeaea"
