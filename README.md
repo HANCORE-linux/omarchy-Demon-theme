@@ -25,9 +25,9 @@ cp system24-Demon.css ~/.config/vesktop/themes/system24-Demon.css
 - Make sure Lazyvim is update to date type :Lazy <br>
 
 ## VSCode-Theme
-- Using Theme: Matt Black
-- Using Extension-ID: Tyriar.theme-sapphire
-- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Sapphire Theme
+- Using Theme: Matte Black
+- Using Extension-ID: TahaYVR.matteblack
+- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Matte Black
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
